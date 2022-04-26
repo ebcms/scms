@@ -1,7 +1,7 @@
 <?php
 
-use Ebcms\Framework\Framework;
-use DigPHP\Router\Router;
+use DiggPHP\Framework\Framework;
+use DiggPHP\Router\Router;
 
 return [
     'menus' => Framework::execute(function (

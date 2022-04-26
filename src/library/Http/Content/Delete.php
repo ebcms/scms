@@ -6,7 +6,7 @@ namespace App\Ebcms\Scms\Http\Content;
 
 use App\Ebcms\Admin\Http\Common;
 use App\Ebcms\Scms\Model\Content;
-use DigPHP\Request\Request;
+use DiggPHP\Request\Request;
 
 class Delete extends Common
 {

@@ -5,9 +5,9 @@ declare(strict_types=1);
 namespace App\Ebcms\Scms\Http\Cate;
 
 use App\Ebcms\Admin\Http\Common;
-use DigPHP\Database\Db;
-use DigPHP\Request\Request;
-use DigPHP\Template\Template;
+use DiggPHP\Database\Db;
+use DiggPHP\Request\Request;
+use DiggPHP\Template\Template;
 
 class Index extends Common
 {

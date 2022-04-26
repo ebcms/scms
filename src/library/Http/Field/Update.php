@@ -5,16 +5,16 @@ declare(strict_types=1);
 namespace App\Ebcms\Scms\Http\Field;
 
 use App\Ebcms\Admin\Http\Common;
-use DigPHP\Database\Db;
-use DigPHP\Form\Builder;
-use DigPHP\Form\Component\Col;
-use DigPHP\Form\Component\Html;
-use DigPHP\Form\Field\Hidden;
-use DigPHP\Form\Field\Input;
-use DigPHP\Form\Component\Switchs;
-use DigPHP\Form\Component\Row;
-use DigPHP\Form\Component\SwitchItem;
-use DigPHP\Request\Request;
+use DiggPHP\Database\Db;
+use DiggPHP\Form\Builder;
+use DiggPHP\Form\Component\Col;
+use DiggPHP\Form\Component\Html;
+use DiggPHP\Form\Field\Hidden;
+use DiggPHP\Form\Field\Input;
+use DiggPHP\Form\Component\Switchs;
+use DiggPHP\Form\Component\Row;
+use DiggPHP\Form\Component\SwitchItem;
+use DiggPHP\Request\Request;
 
 class Update extends Common
 {

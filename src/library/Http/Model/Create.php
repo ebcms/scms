@@ -5,12 +5,12 @@ declare(strict_types=1);
 namespace App\Ebcms\Scms\Http\Model;
 
 use App\Ebcms\Admin\Http\Common;
-use DigPHP\Database\Db;
-use DigPHP\Form\Builder;
-use DigPHP\Form\Component\Col;
-use DigPHP\Form\Field\Input;
-use DigPHP\Form\Component\Row;
-use DigPHP\Request\Request;
+use DiggPHP\Database\Db;
+use DiggPHP\Form\Builder;
+use DiggPHP\Form\Component\Col;
+use DiggPHP\Form\Field\Input;
+use DiggPHP\Form\Component\Row;
+use DiggPHP\Request\Request;
 
 class Create extends Common
 {
